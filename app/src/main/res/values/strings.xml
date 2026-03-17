@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Base64 Pro</string>
+    <string name="input_hint">Enter text or Base64...</string>
+    <string name="btn_encode">🔒 Encode</string>
+    <string name="btn_decode">🔓 Decode</string>
+    <string name="btn_clear">Clear</string>
+    <string name="error_msg">❌ Invalid Base64!</string>
+</resources>

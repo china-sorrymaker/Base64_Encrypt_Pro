@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Base64変換</string>
+    <string name="input_hint">テキストを入力...</string>
+    <string name="btn_encode">🔒 エンコード</string>
+    <string name="btn_decode">🔓 デコード</string>
+    <string name="btn_clear">クリア</string>
+    <string name="error_msg">❌ エラー！</string>
+</resources>

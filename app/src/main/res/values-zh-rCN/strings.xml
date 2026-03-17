@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Base64加解密</string>
+    <string name="input_hint">在此输入文本或Base64...</string>
+    <string name="btn_encode">🔒 编码</string>
+    <string name="btn_decode">🔓 解码</string>
+    <string name="btn_clear">清空</string>
+    <string name="error_msg">❌ 格式错误！</string>
+</resources>

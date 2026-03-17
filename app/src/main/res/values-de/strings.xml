@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Base64 Konverter</string>
+    <string name="input_hint">Text eingeben...</string>
+    <string name="btn_encode">🔒 Codieren</string>
+    <string name="btn_decode">🔓 Decodieren</string>
+    <string name="btn_clear">Löschen</string>
+    <string name="error_msg">❌ Fehler!</string>
+</resources>

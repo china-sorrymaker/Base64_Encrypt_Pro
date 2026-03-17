@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Base64 Pro</string>
+    <string name="input_hint">Insira o texto...</string>
+    <string name="btn_encode">🔒 Codificar</string>
+    <string name="btn_decode">🔓 Decodificar</string>
+    <string name="btn_clear">Limpar</string>
+    <string name="error_msg">❌ Erro!</string>
+</resources>
